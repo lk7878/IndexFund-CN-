@@ -1,0 +1,6 @@
+interface:
+  display_name: "IndexFund-CN指数助手"
+  short_description: "依据七项筛选要求，核查指数估值、基金成本与交易条件，形成可复核的ETF投资候选"
+  default_prompt: "请用 $indexfund-cn 按我的七项条件筛选ETF，核验数据并比较估值、总成本和交易风险。"
+policy:
+  allow_implicit_invocation: true
