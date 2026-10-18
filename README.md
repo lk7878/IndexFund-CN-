@@ -16,6 +16,7 @@
 
 - [技能入口](indexfund-cn/SKILL.md)：七项筛选要求、工作顺序与输出边界。
 - [筛选口径](indexfund-cn/references/screening.md)：同类排名、三年统计、经理回报和费用优势。
+- [基金适配与观点核验](indexfund-cn/references/fund-fit-and-evidence.md)：配置适配、被动基金收益归因、主动与被动比较及外部内容证据边界。
 - [成本与交易](indexfund-cn/references/costs-and-execution.md)：总成本、跨市场时差、折溢价、流动性与配置。
 - [来源与适用边界](indexfund-cn/references/context.md)：规则来源与不应默认继承的历史参数。
 - [界面元数据](indexfund-cn/agents/openai.yaml)：显示名称与调用提示。
@@ -28,4 +29,6 @@
 
 ## 发布说明
 
-本次以本机 `indexfund-cn` v1.2 为基础发布，保留筛选规则和参考文档，仅从公开副本中去除历史会话分享链接及内部聊天ID。本机源文件未改动。仓库不包含个人持仓、研究报告、自动化状态或密钥。
+当前版本为 `indexfund-cn` v1.3（2026-10-18）。新增基金适配与观点核验、被动基金收益归因、换基金成本及实际收益口径，原七项筛选条件保持不变。
+
+视频借鉴基于作者发布页和同期内容摘录，未取得完整字幕；具体来源与限制见新增参考文件。公开副本去除了历史会话分享链接及内部聊天ID，仓库不包含个人持仓、研究报告、自动化状态或密钥。
